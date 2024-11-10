@@ -6,7 +6,7 @@ import lombok.*;
 @NoArgsConstructor @AllArgsConstructor
 public class Student {
     private Long id;
-    private String firstName;
+    private String firstname;
     private String lastname;
     private Integer age;
     private String address;
